@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "ingot-ferromanganese",
+      "minratio": 0.12,
+      "maxratio": 0.14
+    },
+    {
+      "type": "item",
+      "code": "ingot-iron",
+      "minratio": 0.88,
+      "maxratio": 0.86
+    }
+  ],
+  "output": { "type": "item", "code": "ingot-hadfieldsteel" }
+}

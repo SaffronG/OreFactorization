@@ -1,0 +1,23 @@
+{
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "ingot-chromium",
+      "minratio": 0.18,
+      "maxratio": 0.2
+    },
+    {
+      "type": "item",
+      "code": "ingot-iron",
+      "minratio": 0.7,
+      "maxratio": 0.72
+    },
+    {
+      "type": "item",
+      "code": "nickel-ingot",
+      "minratio": 0.08,
+      "maxratio": 0.1
+    }
+  ],
+  "output": { "type": "item", "code": "ingot-stainlesssteel" }
+}

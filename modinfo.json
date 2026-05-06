@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "orefactorization",
+  "name": "Ore Factorization",
+  "version": "1.0.0",
+  "description": "Advanced metallurgy, processing, and automation",
+  "authors": ["SaffronG"],
+  "dependencies": {
+    "game": "1.22.1"
+  }
+}

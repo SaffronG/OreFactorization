@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "ingot-manganese",
+      "minratio": 0.7,
+      "maxratio": 0.8
+    },
+    {
+      "type": "item",
+      "code": "ingot-iron",
+      "minratio": 0.3,
+      "maxratio": 0.2
+    }
+  ],
+  "output": { "type": "item", "code": "ingot-ferromanganese" }
+}
