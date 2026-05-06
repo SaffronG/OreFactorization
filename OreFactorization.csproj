@@ -8,6 +8,7 @@
 
   <ItemGroup>
       <Reference Include="VintagestoryAPI">
+          # NOTE you may need to change the HintPath to be a different value depending on your VintageStory install location and if you are on Windows or Linux, etc
           <HintPath>/home/chase/.local/share/vintagestory/VintagestoryAPI.dll</HintPath>
           <Private>false</Private>
       </Reference>
