@@ -1,0 +1,8 @@
+{
+  "code": "ingot-ferromanganese",
+  "creativeinventory": { "general": ["ingots"] },
+  "maxstacksize": 100,
+  "attributes": {
+    "metal": "ferromanganese"
+  }
+}

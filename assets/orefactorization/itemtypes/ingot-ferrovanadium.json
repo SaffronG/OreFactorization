@@ -1,0 +1,8 @@
+{
+  "code": "ingot-ferrovanadium",
+  "creativeinventory": { "general": ["ingots"] },
+  "maxstacksize": 100,
+  "attributes": {
+    "metal": "ferrovanadium"
+  }
+}

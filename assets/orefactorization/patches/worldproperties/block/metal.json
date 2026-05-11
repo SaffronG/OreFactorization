@@ -1,0 +1,38 @@
+[
+  {
+    "op": "add",
+    "path": "/hadfieldsteel",
+    "value": {
+      "meltingpoint": 1400,
+      "density": 7.8,
+      "tier": 4
+    }
+  },
+  {
+    "op": "add",
+    "path": "/stainlesssteel",
+    "value": {
+      "meltingpoint": 1450,
+      "density": 7.9,
+      "tier": 4
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ferromanganese",
+    "value": {
+      "meltingpoint": 1200,
+      "density": 7.2,
+      "tier": 3
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ferrovanadium",
+    "value": {
+      "meltingpoint": 1350,
+      "density": 6.0,
+      "tier": 3
+    }
+  }
+]
